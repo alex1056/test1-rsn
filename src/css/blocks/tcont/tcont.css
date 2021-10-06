@@ -1,0 +1,10 @@
+@import url(./__inner2/tcont__inner2.css);
+@import url(./__inner/tcont__inner.css);
+@import url(./__text/tcont__text.css);
+
+.tcont {
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}

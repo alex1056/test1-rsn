@@ -1,0 +1,39 @@
+.wrapper {
+  width: 57.9%;
+  padding-bottom: 36.5%;
+  position: relative;
+  display: flex;
+  margin: auto;
+  overflow: hidden;
+  background: url(../../../assets/bg.svg) no-repeat;
+  background-size: contain;
+}
+
+@media screen and (min-width: 1441px) {
+  .wrapper {
+    width: 57.9%;
+    padding-bottom: 36.5%;
+  }
+}
+
+@media screen and (max-width: 1440px) {
+  .wrapper {
+    width: 834px;
+    padding-bottom: 526px;
+  }
+}
+
+@media screen and (max-width: 834px) {
+  .wrapper {
+    width: 100%;
+    padding-bottom: 63%;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  .wrapper {
+    width: 280px;
+    padding-bottom: 460px;
+    background: url(../../../assets/bg-iphone-11.svg) no-repeat;
+  }
+}
