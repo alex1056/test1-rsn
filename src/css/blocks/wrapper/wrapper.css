@@ -33,7 +33,7 @@
 @media screen and (max-width: 375px) {
   .wrapper {
     width: 280px;
-    padding-bottom: 460px;
+    padding-bottom: 464px;
     background: url(../../../assets/bg-iphone-11.svg) no-repeat;
   }
 }
